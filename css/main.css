@@ -1,0 +1,21 @@
+/*
+Theme Name: myp
+Theme URI: http://sekander.pro/myp
+Author: Sekander Badsha
+Author URI: http://sekander.pro/
+Description: the personalized theme for Sekander Badsha
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Responsive, Bootstrap, Portfolio, Flat
+*/
+body{background-color:#c0392b;}
+.navbar-default{border:none;font-family: 'Germania One', cursive;font-size: 150%;}
+.navbar-nav>li>a{color:#ecf0f1 !important; transition:border 0.5s ease-in-out;}
+.navbar-nav>li>a:hover, .navbar-nav>li>a:active{border-bottom:5px solid #e7e7e7 !important;}
+.text_white{color:#ecf0f1}
+.nav{background:none;}
+.navbar-nav{border-radius: 5px;}
+.hello{font-family: 'Lilita One', cursive; font-size: 500%;}
+.normal-talk{font-family: 'Quattrocento', serif;}
+.bangla{font-family: 'Allerta', sans-serif;}
