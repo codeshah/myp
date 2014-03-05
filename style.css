@@ -23,11 +23,5 @@ body{background-color:#c0392b;}
 	text-align: center;
 	text-shadow:0 0 2px black;
 }
-.normal{font-family: 'Quattrocento', serif; font-size:50%;text-shadow:none; line-height:70%;}
+.normal{font-family: 'Quattrocento', serif; font-size:50%;text-shadow:none;}
 .bangla{font-family:'Bangers', cursive; text-transform: uppercase;}
-.bold{
-	font-family:'Ultra', serif;
-	font-weight:400;
-	color:#ecf0f1;
-	font-size: 600%;
-}
